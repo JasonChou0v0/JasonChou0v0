@@ -7,8 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [第02期 - Git入门](https://jasonchou.vercel.app/posts/02-Git%E5%85%A5%E9%97%A8/)
-- [第01期 - 赤道夜景](https://jasonchou.vercel.app/posts/01-%E8%B5%A4%E9%81%93%E5%A4%9C%E6%99%AF/)
+- [Git 入门](https://cali.so/blog/Get-started-with-Git)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>

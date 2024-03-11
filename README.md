@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Git 入门](https://cali.so/blog/Get-started-with-Git)
+- [Git 入门](https://jasonchou.vercel.app/blog/Get-started-with-Git)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>

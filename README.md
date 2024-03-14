@@ -5,9 +5,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [voe.cool](https://voe.cool)
 - ⚡ &nbsp;Fun fact: I want to raise a cat 🐈 or dog 🐕
 
-📕 &nbsp;**Latest Blog Posts**
+<!-- 📕 &nbsp;**Latest Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
-- [Git 入门](https://cali.so/blog/Get-started-with-Git)
+
 <!-- BLOG-POST-LIST:END -->
 
 <picture>

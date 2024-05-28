@@ -7,6 +7,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [基于Java的在线零售系统的设计和实现](https://voe.cool/blog/Java-Graduation-Project)
+- [最近开发的技巧/踩坑](https://voe.cool/blog/developed-techniques-pitfalls)
 - [Git 入门](https://voe.cool/blog/Get-started-with-Git)
 <!-- BLOG-POST-LIST:END -->
 

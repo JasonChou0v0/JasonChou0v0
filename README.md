@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning `Java`
-- 👨‍💻 &nbsp;Read more about my projects at [voe.cool](https://voe.cool)
+- 👨‍💻 &nbsp;Read more about my projects at [www.jasonchou.cn](https://www.jasonchou.cn)
 - ⚡ &nbsp;Fun fact: I want to raise a cat 🐈 or dog 🐕
 
 - 📕 &nbsp;**Latest Blog Posts**
